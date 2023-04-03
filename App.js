@@ -1,9 +1,9 @@
 import React from 'react';
 import { View } from 'react-native';
 
-import Topo from './componentes/Topo';
-import Texto from './componentes/Texto';
-import Cards from './componentes/Cards';
+import Topo from './components/Topo';
+import Texto from './components/Texto';
+import Cards from './components/Cards';
 
 export default function App () { 
   return (
